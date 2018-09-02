@@ -10,11 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/dainemawer/react-ssr-setup.git"
   },
-  "keywords": ["react", "ssr", "scaffold", "setup"],
+  "keywords": [
+    "react",
+    "ssr",
+    "scaffold",
+    "setup"
+  ],
   "author": "Daine Mawer",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dainemawer/react-ssr-setup/issues"
   },
-  "homepage": "https://github.com/dainemawer/react-ssr-setup#readme"
+  "homepage": "https://github.com/dainemawer/react-ssr-setup#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-helmet": "^5.2.0"
+  }
 }
